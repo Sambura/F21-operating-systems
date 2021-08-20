@@ -1,0 +1,45 @@
+    1  cal
+    2  руд
+    3  help
+    4  echo -e "aaa \x1b[5;33;1;3maaa\x1b[0m aaa"
+    5  whoami
+    6  ls
+    7  mkdir ~/week01/ex1.txt
+    8  mkdir ~/week01
+    9  ls
+   10  date
+   11  calendar
+   12  touch hello.c
+   13  ls
+   14  gedit hello.c
+   15  gcc hello.c -o ~/week01/ex4
+   16  app install gcc
+   17  apt install gcc
+   18  apt-get update
+   19  ls /usr/bin
+   20  gcc
+   21  sude apt update
+   22  sudo apt update
+   23  sudo apt install gcc
+   24  \
+   25  gcc
+   26  gcc hello.c -o ~/week01/ex4
+   27  ./week01/ex4
+   28  root/week01/ex4
+   29  ~/week01/ex4
+   30  pwd
+   31  /root/week01/ex4
+   32  nano
+   33  gcc hello.c -o ~/week01/ex4
+   34  /root/week01/ex4
+   35  nano ~/week01/ex4
+   36  fg
+   37  nano ~/hello.c
+   38  man nano
+   39  nano -m ~/hello.c
+   40  gcc hello.c -o ~/week01/ex4
+   41  /root/week01/ex4
+   42  ls /usr/bin | grep gcc
+   43  ls /usr/bin | grep gcc | sort -r > ~/week01/ex1.txt
+   44  cat ~/week01/ex1.txt
+   45  history > ~/week01/ex2.txt
