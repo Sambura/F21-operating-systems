@@ -1,0 +1,26 @@
+output for the unsyncronized program
+
+Message from the thread 0
+The thread 0 has been created
+The thread 1 has been created
+Message from the thread 1
+The thread 2 has been created
+Message from the thread 2
+The thread 3 has been created
+Message from the thread 3
+The thread 4 has been created
+Message from the thread 4
+The thread 5 has been created
+Message from the thread 5
+The thread 6 has been created
+Message from the thread 6
+The thread 7 has been created
+The thread 0 has been terminated
+The thread 1 has been terminated
+The thread 2 has been terminated
+The thread 3 has been terminated
+Message from the thread 7
+The thread 4 has been terminated
+The thread 5 has been terminated
+The thread 6 has been terminated
+The thread 7 has been terminated
