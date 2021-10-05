@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   2621	    648	     16	   3285	    cd5	/home/sambuta/ex2
