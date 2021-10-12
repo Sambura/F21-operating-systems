@@ -1,0 +1,8 @@
+top - 13:54:48 up  3:49,  0 users,  load average: 0.08, 0.02, 0.01
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  11118.5 total,    976.6 free,  10116.3 used,     25.6 buff/cache
+MiB Swap:   3072.0 total,   3069.7 free,      2.3 used.    847.7 avail Mem
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4910 sambura   20   0   10.0g   9.8g   1064 R   0.0  90.1   0:05.90 ex2

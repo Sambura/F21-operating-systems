@@ -1,0 +1,9 @@
+What is the difference between a physical and a virtual address?
+
+I believe that the names of addresses are pretty self-explanatory. 
+Virtual address is the address to the cell in the virtual memory,
+whereas physical address points to the physical memory cell in RAM.
+
+From here we can say, that any physicall address can be converted 
+into virtual, but not all virtual addresses can be converted to physical,
+since physical RAM stores only a part of virtual memory.
