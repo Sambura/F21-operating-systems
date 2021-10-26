@@ -1,0 +1,9 @@
+mode of '_ex3.txt' retained as 0644 (rw-r--r--)
+mode of '_ex3.txt' changed from 0644 (rw-r--r--) to 0747 (rwxr--rwx)
+mode of '_ex3.txt' changed from 0747 (rwxr--rwx) to 0777 (rwxrwxrwx)
+
+660 means permission 6 for owner and for the group, for other users - the permission is 0. permission 6 is 2 + 4 => 110 => RWx (only read and write is permitted). Permission 0 is obviously 000 => rwx (no permissions)
+
+775 means permission 7 for owner and for the group, for other users - the permission is 5. permission 7 is 4 + 2 + 1 => 111 => RWX (everything is permitted). Permission 5 is 4 + 1 => RwX (no write permission)
+
+777 means permission 7 for all users, that is, any user has full set of permissions
